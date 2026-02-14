@@ -132,7 +132,7 @@ export default function NeuralTradeComingSoon() {
             
             {/* Icon */}
             <span className="material-symbols-outlined text-5xl md:text-7xl text-[#00ff88] relative z-10 drop-shadow-[0_0_15px_rgba(0,255,136,0.8)]">
-              psychology
+              
             </span>
 
             {/* Floating Decor - Mobilde gizleyebiliriz veya küçük gösterebiliriz */}
@@ -239,4 +239,5 @@ export default function NeuralTradeComingSoon() {
       `}</style>
     </div>
   );
+
 }
